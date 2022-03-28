@@ -29,6 +29,12 @@ Components used for this build:
 - 解锁"CFG-LOCK" 找到CPUSetup 将横排 "0030" "0E" 位改为 00
 - 修改DVMT 搜索 SaSetup 将横排 "00F0" "05" 位改为 "02"
 
+## 28 Mar 2022 Update:
+- OpenCore 0.7.9
+- Kexts update
+- Drivers update
+- macOS 12.3
+
 ## 3 Mar 2022 Update:
 - OpenCore 0.7.8
 - Kexts update
